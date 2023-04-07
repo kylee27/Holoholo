@@ -1,7 +1,10 @@
 # Holoholo
 Centralised version of the backend system of the mobile app Holoholo. 
 
-## Abstract
+## User Interface
+Please see [here](https://www.figma.com/proto/5DmF93C8p53oj3uQmVyHab/Basic?node-id=2-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2) for the designed UI of the app. You may navigate the app by mobile devices through clicking icons and buttons.
+
+## Summary
 Blockchain technology is used by the gamified app Holoholo to turn shopping into a thrilling journey. Modern customers frequently find that the traditional shopping experience falls short of their expectations for involvement and connection, which has a negative impact on foot traffic, customer loyalty, and revenue for shops. By directing users to accomplish enjoyable objectives and challenges at participating businesses and earning tokens redeemable for special deals, Holoholo provides a solution to this issue.
 
 With the use of the app's location-based services, users can identify participating businesses and do assignments with ease. The question bank's security and transparency are guaranteed by the use of Web3 blockchain technology, and the distribution of tokens and incentives is managed by smart contracts, automating the procedure and assuring transparency.
